@@ -1,0 +1,12 @@
+{
+  "window_width": 1024,
+  "window_height": 768,
+  "fps": 60,
+  "title": "Jewel Quest",
+  "volume_music": 0.3,
+  "volume_sfx": 0.5,
+  "video_speed": 2,
+  "volume_match": 0.6,
+  "volume_win": 0.7,
+  "volume_lose": 0.6
+}

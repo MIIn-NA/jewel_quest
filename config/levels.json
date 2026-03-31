@@ -1,0 +1,11 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "mode": "score",
+      "target": 1500,
+      "rows": 8,
+      "cols": 8
+    }
+  ]
+}
